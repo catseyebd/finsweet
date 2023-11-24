@@ -1,0 +1,49 @@
+/* font-family: 'Poppins', sans-serif; */
+/* ==================Nav bar css start ================= */
+nav{
+    position: absolute !important;
+    width: 100%;
+}
+.nav-item{
+    margin-left: 32px;
+    align-items: center;
+}
+.nav-link{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+}
+.btn{
+    border-radius: 41px;
+    padding: 16px 48px
+}
+/*=================== Nav bar css End================== */
+/* ==================== Bannar Part Start ================== */
+#bannar{
+    background: url(../image/Background.png) no-repeat center;
+    background-size: cover;
+    padding-top: 218px;
+    padding-bottom: 128px;
+}
+#bannar h1{
+    width: 582px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 74px;
+    color: white;
+    margin-bottom: 24px;
+}
+#bannar p{
+    width: 562px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    color: white;
+    margin-bottom: 48px;
+}
+/* ==================== Bannar Part End ================== */
